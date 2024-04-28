@@ -1,0 +1,1 @@
+{"name":"Local: ParallelReduction","url":"e:\\LP5\\ParallelReduction.cpp","tests":[{"id":1714137172887,"input":"5 \n10 11 9 6 13","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\LP5\\ParallelReduction.cpp","group":"local","local":true}
